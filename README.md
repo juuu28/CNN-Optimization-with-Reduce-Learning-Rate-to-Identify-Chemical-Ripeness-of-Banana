@@ -1,2 +1,1 @@
-# Optimalisasi CNN dengan Reduce Learning Rate untuk Identifikasi Kematangan Kimia Pisang
- 
+# CNN OPTIMIZATION USING REDUCE LEARNING RATE IN DETECTING CHEMICALLY RIPE BANANA
